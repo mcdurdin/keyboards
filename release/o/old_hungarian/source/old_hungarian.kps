@@ -85,6 +85,12 @@
       <FileType>.ttf</FileType>
     </File>
     <File>
+      <Name>..\..\..\shared\fonts\hung\kende\web\Kende.woff2</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.woff2</FileType>
+    </File>
+    <File>
       <Name>..\..\..\shared\fonts\hung\kende\LICENSE</Name>
       <Description>File LICENSE</Description>
       <CopyLocation>0</CopyLocation>
@@ -105,7 +111,7 @@
       <RTL>True</RTL>
       <OSKFont>..\..\..\shared\fonts\hung\kende\Kende.ttf</OSKFont>
       <DisplayFont>..\..\..\shared\fonts\hung\kende\Kende.ttf</DisplayFont>
-      <WebDisplayFonts><Font Filename="Kende.woff2" /></WebDisplayFonts>
+      <WebDisplayFonts><Font Filename="..\..\..\shared\fonts\hung\kende\web\Kende.woff2" /></WebDisplayFonts>
       <Languages>
         <Language ID="ohu-Hung">Old Hungarian</Language>
       </Languages>

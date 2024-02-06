@@ -53,13 +53,19 @@
       <CopyLocation>0</CopyLocation>
       <FileType>.md</FileType>
     </File>
+    <File>
+      <Name>..\..\..\shared\fonts\dejavu\DejaVuSans.ttf</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
   </Files>
   <Keyboards>
     <Keyboard>
       <Name>el_naija</Name>
       <ID>el_naija</ID>
       <Version></Version>
-      <WebDisplayFonts><Font Filename="DejaVuSans.ttf"/></WebDisplayFonts>
+      <WebDisplayFonts><Font Filename="..\..\..\shared\fonts\dejavu\DejaVuSans.ttf"/></WebDisplayFonts>
       <Languages>
         <Language ID="abn-Latn">Abua (Latin)</Language>
         <Language ID="bky-Latn">Bokyi (Latin)</Language>

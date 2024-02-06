@@ -3,9 +3,6 @@
   <Options>
     <BuildPath>$PROJECTPATH\build</BuildPath>
     <CompilerWarningsAsErrors>True</CompilerWarningsAsErrors>
-    <WarnDeprecatedCode>True</WarnDeprecatedCode>
-    <CheckFilenameConventions>False</CheckFilenameConventions>
-    <ProjectType>keyboard</ProjectType>
   </Options>
   <Files>
     <File>
@@ -181,6 +178,14 @@
       <Filepath>source\splash.gif</Filepath>
       <FileVersion></FileVersion>
       <FileType>.gif</FileType>
+      <ParentFileID>id_8d4eb765f80c9f2b0f769cf4e4aaa456</ParentFileID>
+    </File>
+    <File>
+      <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
+      <Filename>LICENSE.md</Filename>
+      <Filepath>source\..\LICENSE.md</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.md</FileType>
       <ParentFileID>id_8d4eb765f80c9f2b0f769cf4e4aaa456</ParentFileID>
     </File>
   </Files>

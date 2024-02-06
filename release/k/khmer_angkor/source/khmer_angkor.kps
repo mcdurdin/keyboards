@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Package>
   <System>
-    <KeymanDeveloperVersion>15.0.266.0</KeymanDeveloperVersion>
+    <KeymanDeveloperVersion>16.0.138.0</KeymanDeveloperVersion>
     <FileVersion>7.0</FileVersion>
   </System>
   <Options>
@@ -11,7 +11,6 @@
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
     <FollowKeyboardVersion/>
-    <LicenseFile>..\LICENSE.md</LicenseFile>
   </Options>
   <StartMenu>
     <Folder></Folder>
@@ -23,8 +22,6 @@
     <Author URL="mailto:makara_sok@sil.org">Makara Sok</Author>
     <Version URL=""></Version>
     <WebSite URL="https://keyman.com/keyboards/khmer_angkor">https://keyman.com/keyboards/khmer_angkor</WebSite>
-    <Description>Khmer Unicode keyboard layout based on the NiDA keyboard layout.
-Automatically corrects many common keying errors.</Description>
   </Info>
   <Files>
     <File>
@@ -152,13 +149,7 @@ Automatically corrects many common keying errors.</Description>
       <Languages>
         <Language ID="km">Central Khmer (Khmer, Cambodia)</Language>
       </Languages>
-      <Examples>
-        <Example ID="km" Keys="x j m E r" Text="ខ្មែរ" Note="Name of language" />
-      </Examples>
-  </Keyboard>
+    </Keyboard>
   </Keyboards>
   <Strings/>
-  <RelatedPackages>
-    <RelatedPackage ID="khmer10" Relationship="deprecates" />
-  </RelatedPackages>
 </Package>

@@ -85,13 +85,19 @@
       <CopyLocation>0</CopyLocation>
       <FileType>.md</FileType>
     </File>
+    <File>
+      <Name>..\..\..\shared\fonts\dejavu\DejaVuSans.ttf</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
   </Files>
   <Keyboards>
     <Keyboard>
       <Name>Thuɔŋjäŋ</Name>
       <ID>el_dinka</ID>
       <Version></Version>
-      <WebDisplayFonts><Font Filename="DejaVuSans.ttf"/></WebDisplayFonts>
+      <WebDisplayFonts><Font Filename="..\..\..\shared\fonts\dejavu\DejaVuSans.ttf"/></WebDisplayFonts>
       <Languages>
         <Language ID="din-Latn">Dinka (Latin)</Language>
         <Language ID="dip-Latn">Northeastern Dinka (Latin)</Language>

@@ -73,13 +73,19 @@ Septuagint Scriptures.</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.md</FileType>
     </File>
+    <File>
+      <Name>..\..\..\shared\fonts\sil\gentium\GentiumPlus-Regular.ttf</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
   </Files>
   <Keyboards>
     <Keyboard>
       <Name>Galaxie Greek (Phonetic)</Name>
       <ID>galaxie_greek_positional</ID>
       <Version>1.0</Version>
-      <WebDisplayFonts><Font Filename="GentiumPlus-Regular.ttf" /></WebDisplayFonts>
+      <WebDisplayFonts><Font Filename="..\..\..\shared\fonts\sil\gentium\GentiumPlus-Regular.ttf" /></WebDisplayFonts>
       <Languages>
         <Language ID="grc-Grek">Ancient Greek (to 1453) (Greek)</Language>
         <Language ID="el">Modern Greek (1453-)</Language>

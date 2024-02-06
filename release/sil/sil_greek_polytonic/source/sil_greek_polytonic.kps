@@ -72,13 +72,19 @@ characters.</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.md</FileType>
     </File>
+    <File>
+      <Name>..\..\..\shared\fonts\sil\gentium\GentiumPlus-Regular.ttf</Name>
+      <Description>Font Kende</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
   </Files>
   <Keyboards>
     <Keyboard>
       <Name>Polytonic Greek (SIL)</Name>
       <ID>sil_greek_polytonic</ID>
       <Version>1.5</Version>
-      <WebDisplayFonts><Font Filename="GentiumPlus-Regular.ttf" /></WebDisplayFonts>
+      <WebDisplayFonts><Font Filename="..\..\..\shared\fonts\sil\gentium\GentiumPlus-Regular.ttf" /></WebDisplayFonts>
       <Languages>
         <Language ID="grc-Grek">Ancient Greek (to 1453) (Greek)</Language>
         <Language ID="el">Modern Greek (1453-)</Language>

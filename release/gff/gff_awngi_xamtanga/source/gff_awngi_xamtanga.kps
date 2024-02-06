@@ -196,6 +196,18 @@ convention for Ethiopic script languages.</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.md</FileType>
     </File>
+    <File>
+      <Name>..\..\..\shared\fonts\noto\Ethi\NotoSerifEthiopic-Regular.ttf</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\shared\fonts\noto\Ethi\web\NotoSerifEthiopic-Regular.woff2</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.woff2</FileType>
+    </File>
   </Files>
   <Keyboards>
     <Keyboard>
@@ -204,7 +216,7 @@ convention for Ethiopic script languages.</Description>
       <Version>1.0.2</Version>
       <OSKFont>..\..\..\shared\fonts\sil\abyssinica\AbyssinicaSIL-Regular.ttf</OSKFont>
       <DisplayFont>..\..\..\shared\fonts\sil\abyssinica\AbyssinicaSIL-Regular.ttf</DisplayFont>
-      <WebDisplayFonts><Font Filename="NotoSerifEthiopic-Regular.woff2" /><Font Filename="NotoSerifEthiopic-Regular.ttf" /></WebDisplayFonts>
+      <WebDisplayFonts><Font Filename="..\..\..\shared\fonts\noto\Ethi\web\NotoSerifEthiopic-Regular.woff2" /><Font Filename="..\..\..\shared\fonts\noto\Ethi\NotoSerifEthiopic-Regular.ttf" /></WebDisplayFonts>
       <Languages>
         <Language ID="awn">Awngi</Language>
         <Language ID="xan">Xamtanga</Language>

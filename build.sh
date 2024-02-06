@@ -25,7 +25,8 @@ builder_describe \
   build \
   test \
   "--keyboard,-k=KEYBOARD    Build specific targets only, e.g. release/ or release/a/ or release/a/anii/, comma separated" \
-  "--silent,-s               Suppress unnecessary messages"
+  "--silent,-s               Suppress unnecessary messages" \
+  "--compiler=KMC            Optional, path to custom version of kmc"
 
 builder_describe_outputs \
   configure   /node_modules

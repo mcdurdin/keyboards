@@ -80,13 +80,19 @@ a normal QWERTY (English) keyboard.</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.md</FileType>
     </File>
+    <File>
+      <Name>..\..\..\shared\fonts\tamil\aava1.ttf</Name>
+      <Description>Font Kende</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
   </Files>
   <Keyboards>
     <Keyboard>
       <Name>Tamil Typewriter (Visual Media)</Name>
       <ID>vm_tamil_typewriter</ID>
       <Version>1.1</Version>
-      <WebDisplayFonts><Font Filename="aava1.ttf" /></WebDisplayFonts>
+      <WebDisplayFonts><Font Filename="..\..\..\shared\fonts\tamil\aava1.ttf" /></WebDisplayFonts>
       <Languages>
         <Language ID="ta">Tamil</Language>
       </Languages>

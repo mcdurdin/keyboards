@@ -105,13 +105,19 @@ menus for Tibetan symbols.</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.md</FileType>
     </File>
+    <File>
+      <Name>..\..\..\shared\fonts\tibt\ddc_uchen\DDC_Uchen.ttf</Name>
+      <Description>Font Kende</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
   </Files>
   <Keyboards>
     <Keyboard>
       <Name>Tibetan EWTS</Name>
       <ID>tibetan_ewts</ID>
       <Version>2.4</Version>
-      <WebDisplayFonts><Font Filename="DDC_Uchen.ttf" /></WebDisplayFonts>
+      <WebDisplayFonts><Font Filename="..\..\..\shared\fonts\tibt\ddc_uchen\DDC_Uchen.ttf" /></WebDisplayFonts>
       <Languages>
         <Language ID="adi-Tibt">Adi (Tibetan)</Language>
         <Language ID="bft-Tibt">Balti (Tibetan)</Language>
